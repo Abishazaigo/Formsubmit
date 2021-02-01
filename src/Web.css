@@ -1,0 +1,213 @@
+.logo {
+    height: 100px;
+    width: 100px;
+}
+.fa-facebook {
+    margin-left: 100px;
+    color: black;
+}
+
+.fa-youtube {
+    margin-left: 100px;
+    color: black;
+}
+
+.fa-linkedin {
+    margin-left: 100px;
+    color: black;
+}
+@media only screen and (max-width:576px)
+{
+.logo {
+    height: 30px;
+    width: 30px;
+}
+.fa-facebook {
+    margin-left: 10px;
+    color: black;
+}
+
+.fa-youtube {
+    margin-left: 10px;
+    color: black;
+}
+
+.fa-linkedin {
+    margin-left: 10px;
+    color: black;
+}
+}
+
+.foottop{
+    background-color: black;
+}
+.comment{
+    color:coral;
+    border:3px solid blueviolet;
+}
+
+.view{
+    color:coral;
+    background-color: cyan;
+}
+
+.icon{
+    height:50px;
+}
+.pass1{
+    text-align: justify;
+    color: white;
+}
+.pass2{
+    color: #59a310;
+    font-weight: 500;
+    font-size: 30px;
+}
+.bot{
+    background-color: rgb(175, 9, 9);
+}
+.com{
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
+.image2 {
+    opacity: 0.5;
+    left: 50%;
+    top: 30%;
+    height: 200px;
+    width: 455px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -25px;
+}
+
+.top-left {
+    font-style: italic;
+    position: absolute;
+    top: 250px;
+    left: 175px;
+    text-align: center;
+}
+.item{
+    text-align: left;
+}
+.pas{
+    font-size: 30px;
+    color:#59a310;
+}
+.pa{
+    color:white;
+}
+.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+.image3 {
+    height: 250px;
+    width: 250px;
+}
+
+.topic {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.center {
+    border-radius: 20%;
+    align-items: center;
+}
+
+.pic1 {
+    height: 200px;
+    width: 200px;
+}
+
+.pic2 {
+    height: 200px;
+    width: 200px;
+}
+
+.pic3 {
+    height: 200px;
+    width: 100px;
+}
+
+.pic4 {
+    height: 195px;
+    width: 150px;
+}
+
+.product {
+    text-align: center;
+}
+
+.buy {
+    align-content: center;
+    margin: auto;
+    display: flex;
+    background-color: #59a310;
+    border-color: #59a310;
+    color: white;
+}
+
+.bu {
+    align-content: center;
+    margin: auto;
+    display: flex;
+    background-color: rgb(197, 8, 8);
+    border-color: rgb(197, 8, 8);
+    color: white;
+}
+
+.bgimage1 {
+    padding-top: 20px;
+    height: 75%;
+    width: 100%;
+}
+
+.top-pos {
+    position: absolute;
+    top: -350px;
+    color: white;
+    font-size: 20px;
+}
+
+.youtube {
+    top: -350px;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+}
+
+.bgimage2 {
+    height: 500px;
+    width: 345px;
+}
+
+.bgimage3 {
+    height: 500px;
+    width: 325px;
+}
+
+.p1 {
+    padding-top: 20px;
+    font-size: 4mm;
+    color: #59a310;
+}
+
+.p2 {
+    font-style: italic;
+    font-size: 6mm;
+    font-weight: 500;
+}
+
+.top-end {
+    margin-left: 300px;
+    color: #59a310;
+    border-color: #59a310;
+    background-color: white;
+}
