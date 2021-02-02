@@ -1,3 +1,9 @@
+.highlight{
+    border-color: red;
+}
+.form-group{
+    text-align: left;
+}
 .logo {
     height: 100px;
     width: 100px;
